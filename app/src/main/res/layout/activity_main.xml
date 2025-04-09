@@ -32,19 +32,19 @@
         android:id="@+id/switch_bluetooth"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/bluetooth_is_connected" />
+        android:text="@string/bluetooth_is_on" />
 
     <androidx.appcompat.widget.SwitchCompat
-        android:id="@+id/switch_location"
+        android:id="@+id/switch_Noise"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/location_is_within_givataim" />
+        android:text="@string/environment_is_noisy" />
 
     <androidx.appcompat.widget.SwitchCompat
-        android:id="@+id/switch_flashlight"
+        android:id="@+id/switch_RingerMode"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/flashlight_is_on" />
+        android:text="@string/ringer_mode" />
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/btnContinue"
