@@ -32,18 +32,18 @@ The goal is to simulate a secure entry system based on **5 unique device/environ
 
 **1. No Conditions Met**
 
-| <img src="images/Before_condition.jpeg" alt=" Before condition - Light Mode" width="300"/> |
-|--------------------------------------------------------------------------------------------|
+| <img src="Images/Before_conditions.jpeg" alt=" Before conditions - Light Mode" width="300"/> |
+|----------------------------------------------------------------------------------------------|
 
 **2. All Conditions Met – Ready to Continue**
 
-| <img src="images/After_condition.jpeg" alt=" After condition - Light Mode" width="300"/> |
-|------------------------------------------------------------------------------------------|
+| <img src="Images/After_conditions.jpeg" alt=" After conditions - Light Mode" width="300"/> |
+|--------------------------------------------------------------------------------------------|
 
 **3. Success Screen**
 
-| <img src="images/Success_screen.jpeg" alt=" Success Screen - Light Mode" width="300"/> |
-|-----------------------------------------------------------------------------------------|
+| <img src="Images/Success_screen.jpeg" alt=" Success Screen - Light Mode" width="300"/> |
+|----------------------------------------------------------------------------------------|
 
 ## Author
 
